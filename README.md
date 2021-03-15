@@ -1,4 +1,4 @@
-# Imperas RISC-V OVPsim COREV GitHub Repository
+# Imperas RISC-V OVPsim CORE-V GitHub Repository
 
 This repository contains the riscvOVPsimCOREV simulator which provides a reference of the OpenHW Group CORE-V processor cores.
 
