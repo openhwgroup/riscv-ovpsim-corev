@@ -4,6 +4,6 @@ This repository contains the riscvOVPsimCOREV simulator which provides a referen
 
 Each version of the release is provided in a separate branch which corresponds to the release version.
 
-The latest release version is v20210721.
+The latest release version is v20211019.
 
 Please clone this branch to get the latest version.
