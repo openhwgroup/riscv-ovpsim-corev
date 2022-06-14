@@ -12,11 +12,14 @@ riscvOVPsimCOREV is the free RISC-V ISS (Instruction Set Simulator) for CORE-V d
 
 riscvOVPsimCOREV can be configured for the complete range of the OpenHW CORE V processor IP portfolio including:
 
-- CV32E20
 - CV32E40P
+- CV32E40P-MCU
+- CV32E40Pv2
 - CV32E41P
 - CV32E40S
 - CV32E40X
+- CV32E20
+- CV32A5
 - CV32A6
 - CV64A6
 
