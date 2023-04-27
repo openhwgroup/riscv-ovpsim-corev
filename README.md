@@ -4,7 +4,7 @@ This repository contains the riscvOVPsimCOREV simulator which provides a referen
 
 Each version of the release is provided in a separate branch which corresponds to the release version.
 
-The latest release version is [v20230201](https://github.com/openhwgroup/riscv-ovpsim-corev/tree/v20230201)
+The latest release version is [v20230425](https://github.com/openhwgroup/riscv-ovpsim-corev/tree/v20230425)
 
 ## Introduction to riscvOVPsimCOREV
 
@@ -25,4 +25,4 @@ riscvOVPsimCOREV can be configured for the complete range of the OpenHW CORE V p
 
 The capabilities of these models are closely aligned with the deliverables and maturity of the respective core projects, more information on the features and functionality are available in the [OpenHW Group project repositories on GitHub](https://github.com/openhwgroup/core-v-cores).
 
-This README is a summary overview of riscvOVPsimCOREV, for more detailed information see the [riscvOVPsimCOREV user guide](https://github.com/openhwgroup/riscv-ovpsim-corev/blob/v20230201/doc/riscvOVPsimCOREV_User_Guide.pdf).
+This README is a summary overview of riscvOVPsimCOREV, for more detailed information see the [riscvOVPsimCOREV user guide](https://github.com/openhwgroup/riscv-ovpsim-corev/blob/v20230425/doc/riscvOVPsimCOREV_User_Guide.pdf).
